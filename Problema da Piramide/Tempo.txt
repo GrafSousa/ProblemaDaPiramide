@@ -1,0 +1,8 @@
+Pirâmide de tamanho 10 Programação Dinâmica -> Tempo Total 0.000096
+Pirâmide de tamanho 10 Força Bruta -> Tempo Total 0.000131
+Pirâmide de tamanho 20 Programação Dinâmica -> Tempo Total 0.000100
+Pirâmide de tamanho 20 Força Bruta -> Tempo Total 0.008280
+Pirâmide de tamanho 30 Programação Dinâmica -> Tempo Total 0.000115
+Pirâmide de tamanho 30 Força Bruta -> Tempo Total 7.559284
+Pirâmide de tamanho 35 Programação Dinâmica -> Tempo Total 0.000110
+Pirâmide de tamanho 35 Força Bruta -> Tempo Total 253.885669

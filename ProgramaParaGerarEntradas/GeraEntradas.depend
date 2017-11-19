@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510547556 source:/home/piedrin33/Área de Trabalho/Trabalhos/PAA/TP 3/GeraEntradas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1510547556 source:/home/piedrin33/Área de Trabalho/Trabalhos/PAA/GeraEntradas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
